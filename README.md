@@ -1,6 +1,6 @@
 ## PATIKA.DEV-NODE-JS-HW-2
 
-## [Patka.dev](https://www.patika.dev/tr)
+## [Patika.dev](https://www.patika.dev/tr)
 
 <br>
 
